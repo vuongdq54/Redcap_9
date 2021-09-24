@@ -3,7 +3,7 @@
 
 ## Affected version:
 The issue exists to version 9.2.3
-
+Cancel changes
 ## Description:   
 1.	SQL injection attack allow attackers to spoof identity, tamper with existing data, cause repudiation issues such as voiding transactions or changing balances, allow the complete disclosure of all data on the system, destroy the data or make it otherwise unavailable, and become administrators of the database server
 
