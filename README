@@ -15,12 +15,12 @@ The issue exists to version 9.2.3
 1. 
 SQLInjection : https://redcapdemo.vanderbilt.edu/redcap_v9.2.3/Calendar/scheduling_ajax.php?action=edit_single
 <p align="center">
-<img src="https://github.com/vuongdq54/RedCap/blob/main/sql_todolist_sort_1.JPG" />
+<img src="https://github.com/vuongdq54/Redcap_9/blob/main/SQl_daydiff.JPG" />
 </p>
 
 SQLInjection : https://redcapdemo.vanderbilt.edu/redcap_v9.2.3/Calendar/scheduling_ajax.php?action=del_single
 <p align="center">
-<img src="https://github.com/vuongdq54/RedCap/blob/main/sql_todolist_sort_1.JPG" />
+<img src="https://github.com/vuongdq54/Redcap_9/blob/main/SQL_Cal_id.JPG" />
 </p>
 2. CSRF:
 <p align="center">
